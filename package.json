@@ -1,0 +1,16 @@
+{
+  "name": "ReactifyASite",
+  "version": "1.0.0",
+  "description": "Creating the basic HTML of a website using React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhad Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1"
+  }
+}
